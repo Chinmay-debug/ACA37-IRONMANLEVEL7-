@@ -1,0 +1,18 @@
+html, body {
+    height: 100%;
+  }
+  
+  body {
+    margin: 0;
+    display: flex;
+  margin-top: 100px;
+  margin-right: 300px;
+  background-image: linear-gradient(
+    23deg,#d2b48c,#f5deb3,#deb887,#ffdab9,#ffa089,#ffc0cb,#db7093,#f984ef
+  );
+  }
+
+  h1{
+    text-align: right;
+    
+  }
